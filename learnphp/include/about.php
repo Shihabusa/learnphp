@@ -17,6 +17,6 @@
 </html>
 <?php
     include("footer.html");
-
+    //helps to reuse the code in multiple pages and also helps to maintain the code easily because if we want to change something in the header or footer we can change it in one place and it will be reflected in all the pages where we have included the header and footer.
 
 ?>
