@@ -12,7 +12,7 @@
 </head>
 <body>
     THIS is Our about page
-    
+    here we will write about us and our company and our vision and mission and our goals and our values and our culture and our team and our clients and our partners and our investors and our stakeholders and our community and our society and our environment and our sustainability and our social responsibility and our corporate social responsibility and our corporate governance and our corporate ethics
 </body>
 </html>
 <?php
